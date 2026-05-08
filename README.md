@@ -11,5 +11,5 @@ Currently improving my programming skills at **42 Porto**, working on projects i
   </a>
 </p>
 
-**Main skills:** Python, C, C++, SQL, Git, Linux, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Machine Learning, Deep Learning, Web Scraping, AI Automation.
+**Main skills:** Python, C, C++, SQL, Git, Linux, Pandas, NumPy, Scikit-learn, TensorFlow, Machine Learning, Deep Learning, Web Scraping.
 
