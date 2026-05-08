@@ -6,11 +6,8 @@ Currently improving my programming skills at **42 Porto**, working on projects i
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:s.asheri2014@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
   <a href="https://www.linkedin.com/in/saeedeh-asheri-862017109">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
